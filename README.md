@@ -3,10 +3,6 @@
 
 ###
 
-<h4 align="left">a  funny programmer who love challenges. <br><br>student of computer engineering.</h4>
-
-###
-
 <h2 align="left">social media :</h2>
 
 ###
